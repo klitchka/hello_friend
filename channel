@@ -1,0 +1,11 @@
+<h1 style={questions}>Are you happy?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<HappyButton />
+</h1>
+
+<h1 style={questions}>Are you in love? &nbsp;&nbsp;&nbsp;
+<LoveButton />
+</h1>
+
+<h1 style={questions}>Are you healthy? &nbsp;&nbsp;
+<HealthyButton />
+</h1>
