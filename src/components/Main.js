@@ -3,7 +3,7 @@ import HappyButton from './HappyButton';
 import LoveButton from './LoveButton';
 import HealthyButton from './HealthyButton';
 
-const name = 'Klitchka';
+const name = 'Andritte';
 
 export const MainSquare = ({ title }) => {
   

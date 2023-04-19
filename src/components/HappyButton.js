@@ -16,7 +16,7 @@ const firebaseConfig = {
   // Initialize Firebase
   const app = initializeApp(firebaseConfig);
   const db = getFirestore(app);
-  const statusDocRef = doc(db, 'status/rSKQNfaGMjl9CnJ47cQ6');
+  const statusDocRef = doc(db, 'statusAndritte/cHcrTd27H7WTKjtOnM72');
 
   function StatusButton() {
     const [happy, setHappy] = useState(false);
